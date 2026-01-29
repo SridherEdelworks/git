@@ -1,1 +1,1 @@
-Stared Working in Git.
+Started Working in Git.
